@@ -4,7 +4,7 @@
 Analyzed Blinkit delivery data to identify operational bottlenecks causing delays in Bangalore.
 
 ### Tools Used
-SQL, Power BI, Excel
+SQL, Power BI, Excel and python
 
 ### Key Insights
 1. *City-wide avg delay: 8.3 mins*, but Whitefield & HSR Layout hit 14+ mins
