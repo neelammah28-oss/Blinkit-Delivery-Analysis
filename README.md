@@ -15,4 +15,4 @@ SQL, Power BI, Excel and python
 ![Power BI Dashboard](Blinkit_Bangalore_Delivery_Analysis.png)
 
 ### SQL Queries
-See analysis.sql for code used to find worst areas and peak hours.
+See Analysis.sql for code used to find worst areas and peak hours.
