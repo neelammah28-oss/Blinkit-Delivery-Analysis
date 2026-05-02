@@ -12,7 +12,7 @@ SQL, Power BI, Excel and python
 3. *Recommendation*: Add 15% more riders to Whitefield/HSR during 7-9pm slot
 
 ### Dashboard Preview
-![Power BI Dashboard](Blinkit_Bangalore_Delivery_Analysis-orders.png)
+![Power BI Dashboard](Blinkit-Bangalore-Delivery-Analysis-orders.png)
 
 ### SQL Queries
 See Analysis.sql for code used to find worst areas and peak hours.
